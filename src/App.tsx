@@ -26,7 +26,7 @@ function App() {
       </div>
       <Routes>
         <Route
-          path='/Intern'
+          path='/Taksu'
           element={<Home />}
         />
         <Route
