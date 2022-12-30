@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Taksu%20/static/css/main.166beb54.css",
+    "main.js": "/Taksu%20/static/js/main.79b17ec1.js",
+    "static/media/fotodiri.jpg": "/Taksu%20/static/media/fotodiri.ad9775aca0175a8cebe6.jpg",
+    "index.html": "/Taksu%20/index.html",
+    "main.166beb54.css.map": "/Taksu%20/static/css/main.166beb54.css.map",
+    "main.79b17ec1.js.map": "/Taksu%20/static/js/main.79b17ec1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.166beb54.css",
+    "static/js/main.79b17ec1.js"
+  ]
+}
